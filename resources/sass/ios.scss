@@ -1,0 +1,84 @@
+@import 'sencha-touch/cupertino';
+@import 'sencha-touch/cupertino/all';
+
+@include icon('cloud');
+@include icon('retweet');
+
+.homeCls:before {
+  font-family: "Pictos";
+  content: "H";
+  font-size: 1.5em;
+}
+
+.sessionsCls:before {
+  font-family: "Pictos";
+  content: "\005C";
+  font-size: 1.5em;
+}
+
+.mySessionsCls:before {
+  font-family: "Pictos";
+  content: "R";
+  font-size: 1.5em;
+}
+
+.twitterCls:before {
+  font-family: "Pictos";
+  content: "B";
+  font-size: 1.5em;
+}
+
+.speakersCls:before {
+  font-family: "Pictos";
+  content: "g";
+  font-size: 1.5em;
+}
+
+.sponsorsCls:before {
+  font-family: "Pictos";
+  content: "%";
+  font-size: 1.5em;
+}
+
+
+.venueCls:before {
+  font-family: "Pictos";
+  content: "^";
+  font-size: 1.5em;
+}
+
+.weatherCls:before {
+  font-family: "Pictos";
+  content: "C";
+  font-size: 1.5em;
+}
+
+.settingsCls:before {
+  font-family: "Pictos";
+  content: "y";
+  font-size: 1.5em;
+}
+
+.restaurantsCls:before {
+  font-family: "Pictos";
+  content: "C";
+  font-size: 1.5em;
+}
+
+.rainCls {
+  font-size: 1.5em;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+}
+
+.norain {
+  text-align: center;
+}
+
+.session_title {
+  font-size: 1.2em;
+  font-weight: bold;
+}

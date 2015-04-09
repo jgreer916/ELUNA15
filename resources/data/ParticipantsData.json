@@ -1,0 +1,674 @@
+{
+    "participants": [
+        {
+            "id": 1,
+            "firstname": "Adi",
+            "lastname": "Alter",
+            "job_title": "Rosetta and Alma Product Manager",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/aalter.png"
+        },
+        {
+            "id": 2,
+            "firstname": "Alan",
+            "lastname": "Ng",
+            "job_title": "Systems Librarian",
+            "company": "The Chinese University of Hong Kong",
+            "country": "Hong Kong",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 3,
+            "firstname": "Alevtina",
+            "lastname": "Verbovetskaya",
+            "job_title": "Web & Mobile Systems Librarian",
+            "company": "City University of New York",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/averbovetskaya.png"
+        },
+        {
+            "id": 4,
+            "firstname": "Alma",
+            "lastname": "Swan",
+            "job_title": "Director",
+            "company": "Key Perspectives Ltd.",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/aswan.png"
+        },
+        {
+            "id": 5,
+            "firstname": "Andy",
+            "lastname": "Land",
+            "job_title": "Digital Systems Manager",
+            "company": "The University of Manchester",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/aland.png"
+        },
+        {
+            "id": 6,
+            "firstname": "Andy",
+            "lastname": "Bussey",
+            "job_title": "Head of Digital Services and Systems",
+            "company": "University of Sheffield",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/abussey.png"
+        },
+        {
+            "id": 7,
+            "firstname": "Ann",
+            "lastname": "Miller",
+            "job_title": "Head of Collection Services",
+            "company": "University of Oregon",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/amiller.png"
+        },
+        {
+            "id": 8,
+            "firstname": "Asaf",
+            "lastname": "Kline",
+            "job_title": "Alma Product Manager",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 9,
+            "firstname": "Augusto",
+            "lastname": "Ribeiro",
+            "job_title": "Aleph PWG Coordinator & Senior Application Analyst in Library Services",
+            "company": "King's College London",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/aribeiro.png"
+        },
+        {
+            "id": 10,
+            "firstname": "Bar",
+            "lastname": "Veinstein",
+            "job_title": "VP Resource Management Solutions",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "bar.veinstein@exlibrisgroup.com",
+            "profile_image_url_https": "images/participants/bveinstein.jpg"
+        },
+        {
+            "id": 11,
+            "firstname": "Bas",
+            "lastname": "Vat",
+            "job_title": "Manager Library Process Support Division",
+            "company": "Leiden University Libraries",
+            "country": "Netherlands",
+            "email": "",
+            "profile_image_url_https": "images/participants/bvat.png"
+        },
+        {
+            "id": 12,
+            "firstname": "Betsy",
+            "lastname": "Friesen",
+            "job_title": "Alma PWG Coordinator & Director Data Management and Access",
+            "company": "University of Minnesota",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/bfriesen.png"
+        },
+        {
+            "id": 13,
+            "firstname": "Carmit",
+            "lastname": "Marcus",
+            "job_title": "Director of Product Management and Partnerships",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/cmarcus.png"
+        },
+        {
+            "id": 14,
+            "firstname": "Chris",
+            "lastname": "Jones",
+            "job_title": "Systems Manager",
+            "company": "University of Sheffield",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 15,
+            "firstname": "Christian",
+            "lastname": "Hänger",
+            "job_title": "Primo/ML PWG Coordinator & Head of Digital Library Services",
+            "company": "University of Mannheim",
+            "country": "Germany",
+            "email": "",
+            "profile_image_url_https": "images/participants/changer.png"
+        },
+        {
+            "id": 16,
+            "firstname": "Christine",
+            "lastname": "Stohn",
+            "job_title": "Product Manager",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/cstohn.png"
+        },
+        {
+            "id": 17,
+            "firstname": "Corey",
+            "lastname": "Harper",
+            "job_title": "Metadata Services Librarian",
+            "company": "New York University",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/charper.png"
+        },
+        {
+            "id": 18,
+            "firstname": "Curtis",
+            "lastname": "Thacker",
+            "job_title": "Discovery Systems Manager",
+            "company": "Brigham Young University",
+            "country": "USA",
+            "email": "curtis.thacker@byu.edu",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 19,
+            "firstname": "Dalia",
+            "lastname": "Mendelsson",
+            "job_title": "Chief Information Systems Librarian",
+            "company": "The Hebrew University of Jerusalem",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/woman.png"
+        },
+        {
+            "id": 21,
+            "firstname": "David",
+            "lastname": "Charles De Roure",
+            "job_title": "Professor of e-Research, Director of the Oxford e-Research Centre (OeRC) and Co-Director of the Institute for the Future of Computing in the Oxford Martin School",
+            "company": "University of Oxford",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/croure.png"
+        },
+        {
+            "id": 22,
+            "firstname": "Dvir",
+            "lastname": "Hoffman",
+            "job_title": "VP Product Management and Marketing",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/dhoffman.png"
+        },
+        {
+            "id": 23,
+            "firstname": "Fiona",
+            "lastname": "Burton",
+            "job_title": "Associate University Librarian, Resources",
+            "company": "Macquarie University",
+            "country": "Australia",
+            "email": "",
+            "profile_image_url_https": "images/participants/fburton.jpg"
+        },
+        {
+            "id": 24,
+            "firstname": "François",
+            "lastname": "Renaville",
+            "job_title": "Systems Librarian",
+            "company": "University of Liège Library",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/frenaville.png"
+        },
+        {
+            "id": 25,
+            "firstname": "G. H.",
+            "lastname": "Meerburg",
+            "job_title": "Information Specialist",
+            "company": "Library of the University of Amsterdam",
+            "country": "Netherlands",
+            "email": "",
+            "profile_image_url_https": "images/participants/gmeerburg.png"
+        },
+        {
+            "id": 26,
+            "firstname": "Habib",
+            "lastname": "Tabatabai",
+            "job_title": "Director of Systems and Technical Services",
+            "company": "University of Central Oklohoma",
+            "country": "USA",
+            "email": "",
+            "profile_image_url_https": "images/participants/htabatabai.jpg"
+        },
+        {
+            "id": 27,
+            "firstname": "Ilaria",
+            "lastname": "Corda",
+            "job_title": "",
+            "company": "The British Library",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/icorda.png"
+        },
+        {
+            "id": 28,
+            "firstname": "Jakob",
+            "lastname": "Venning",
+            "job_title": "IT Employee",
+            "company": "Statsbiblioteket, State and University Library",
+            "country": "Denmark",
+            "email": "jve@statsbiblioteket.dk",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 29,
+            "firstname": "Jan",
+            "lastname": "Krajic",
+            "job_title": "",
+            "company": "Charles University Prague",
+            "country": "Czech Republic",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 30,
+            "firstname": "Janet",
+            "lastname": "Lute",
+            "job_title": "ILS Coordinator",
+            "company": "Princeton University",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/jlute.png"
+        },
+        {
+            "id": 31,
+            "firstname": "Jiri",
+            "lastname": "Kende",
+            "job_title": "Executive Director of University Library, Chair of Steering Committee",
+            "company": "Freie Universität, IGeLU",
+            "country": "Germany",
+            "email": "kende@ub.fu-berlin.de",
+            "profile_image_url_https": "images/participants/jkende.jpg"
+        },
+        {
+            "id": 32,
+            "firstname": "Jiri",
+            "lastname": "Pavlik",
+            "job_title": "Systems Engineer",
+            "company": "Charles University Prague",
+            "country": "Czech Republic",
+            "email": "",
+            "profile_image_url_https": "images/participants/jpavlik.png"
+        },
+        {
+            "id": 33,
+            "firstname": "Joao",
+            "lastname": "Neves",
+            "job_title": "Senior Application Analyst - Library Systems",
+            "company": "King's College London",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/jneves.png"
+        },
+        {
+            "id": 34,
+            "firstname": "John",
+            "lastname": "Krug",
+            "job_title": "System and Analytics Manager",
+            "company": "Lancaster University",
+            "country": "United Kingdom",
+            "email": "j.krug@lancaster.ac.uk",
+            "profile_image_url_https": "images/participants/jkrug.jpg"
+        },
+        {
+            "id": 35,
+            "firstname": "Kevin J.",
+            "lastname": "Collins",
+            "job_title": "Aleph Systems Librarian",
+            "company": "City University of New York",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 36,
+            "firstname": "Kevin",
+            "lastname": "Kidd",
+            "job_title": "Head of Library Systems and Applications",
+            "company": "Boston College University Libraries",
+            "country": "USA",
+            "email": "",
+            "profile_image_url_https": "images/participants/kkidd.jpg"
+        },
+        {
+            "id": 37,
+            "firstname": "Koby",
+            "lastname": "Rosenthal",
+            "job_title": "VP Europe",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "koby.rosenthal@exlibrisgroup.com",
+            "profile_image_url_https": "images/participants/krosenthal.jpg"
+        },
+        {
+            "id": 38,
+            "firstname": "Luís Miguel",
+            "lastname": "Costa",
+            "job_title": "Faculdade de Engenharia UP",
+            "company": "University of Porto",
+            "country": "Portugal",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 39,
+            "firstname": "Lukas",
+            "lastname": "Koster",
+            "job_title": "Library Systems Coordinator",
+            "company": "Library of the University of Amsterdam",
+            "country": "Netherlands",
+            "email": "",
+            "profile_image_url_https": "images/participants/lkoster.png"
+        },
+        {
+            "id": 40,
+            "firstname": "Mark",
+            "lastname": "Needleman",
+            "job_title": "Systems Support Analyst",
+            "company": "Florida Virtual Campus",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 41,
+            "firstname": "Martin",
+            "lastname": "Büscher",
+            "job_title": "Head of European Support",
+            "company": "Ex Libris",
+            "country": "Germany",
+            "email": "",
+            "profile_image_url_https": "images/participants/mbuscher.png"
+        },
+        {
+            "id": 42,
+            "firstname": "Masud",
+            "lastname": "Khokhar",
+            "job_title": "Head of Digital Innovation",
+            "company": "Lancaster University Library",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/mkhokhar.png"
+        },
+        {
+            "id": 43,
+            "firstname": "Matt",
+            "lastname": "Couzens",
+            "job_title": "Service Improvement Coordinator",
+            "company": "King's College London",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 44,
+            "firstname": "Matthias",
+            "lastname": "Einbrodt",
+            "job_title": "Systems Librarian",
+            "company": "Free University of Bozen-Bolzano",
+            "country": "Italy",
+            "email": "",
+            "profile_image_url_https": "images/participants/meinbrodt.png"
+        },
+        {
+            "id": 45,
+            "firstname": "Matthias",
+            "lastname": "Gross",
+            "job_title": "",
+            "company": "Bavarian State Library",
+            "country": "Germany",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 46,
+            "firstname": "Matti",
+            "lastname": "Shem Tov",
+            "job_title": "President and Chief Executive Officer",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "matti.shemtov@exlibrisgroup.com",
+            "profile_image_url_https": "images/participants/mshemtov.jpg"
+        },
+        {
+            "id": 47,
+            "firstname": "Maureen",
+            "lastname": "Olle-LaJoie",
+            "job_title": "Head of Library Technology",
+            "company": "University of Wisconsin-River Falls",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/mollelajoie.png"
+        },
+        {
+            "id": 48,
+            "firstname": "Michael",
+            "lastname": "North",
+            "job_title": "Sr. SysAnalyst/Programmer",
+            "company": "Northwestern University",
+            "country": "USA",
+            "email": "m-north@northwestern.edu",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 49,
+            "firstname": "Michael",
+            "lastname": "Panitz",
+            "job_title": "Project Assistant, TIB",
+            "company": "German National Library of Science and Technology",
+            "country": "Germany",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        },
+        {
+            "id": 50,
+            "firstname": "Mike",
+            "lastname": "Dicus",
+            "job_title": "Voyager Product Manager",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/mdicus.png"
+        },
+        {
+            "id": 51,
+            "firstname": "Oren",
+            "lastname": "Beit-Arie",
+            "job_title": "Chief Strategy Officer",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/obeitarie.jpg"
+        },
+        {
+            "id": 52,
+            "firstname": "Pascal V.",
+            "lastname": "Calarco",
+            "job_title": "Associate University Librarian, Research and Digital Discovery Services",
+            "company": "University of Waterloo",
+            "country": "Canada",
+            "email": "",
+            "profile_image_url_https": "images/participants/pcalarco.png"
+        },
+        {
+            "id": 53,
+            "firstname": "Peter",
+            "lastname": "Klien",
+            "job_title": "Coordinator Consortia SIWG & Press Officer",
+            "company": "The Austrian Library Network (OBVSG)",
+            "country": "Austria",
+            "email": "",
+            "profile_image_url_https": "images/participants/pklien.png"
+        },
+        {
+            "id": 54,
+            "firstname": "Rachel Birri",
+            "lastname": "Blezon",
+            "job_title": "Systems librarian, Deputy Chief of the Alexandria Library Network Coordination",
+            "company": "Library Am Guisanplatz",
+            "country": "Switzerland",
+            "email": "",
+            "profile_image_url_https": "images/participants/rblezon.png"
+        },
+        {
+            "id": 55,
+            "firstname": "Rachel",
+            "lastname": "Kessler",
+            "job_title": "Product Manager",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/rkessler.png"
+        },
+        {
+            "id": 56,
+            "firstname": "Raymund",
+            "lastname": "Delahunty",
+            "job_title": "Voyager PWG Coordinator & Systems Support Librarian",
+            "company": "University of the Arts, London",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/rdelahunty.png"
+        },
+        {
+            "id": 57,
+            "firstname": "Richard",
+            "lastname": "Cross",
+            "job_title": "Resource Discovery and Innovation Team Manager",
+            "company": "Nottingham Trent University",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/rcross.png"
+        },
+        {
+            "id": 58,
+            "firstname": "Roxana",
+            "lastname": "Popistasu",
+            "job_title": "IT Consultant",
+            "company": "National Library of Luxembourg",
+            "country": "Luxembourg",
+            "email": "roxana-maria.popistasu@bnl.etat.lu",
+            "profile_image_url_https": "images/participants/rpopistasu.jpg"
+        },
+        {
+            "id": 59,
+            "firstname": "Rachel",
+            "lastname": "Blezon",
+            "job_title": "Systems librarian, Deputy Chief of the Alexandria Library Network Coordination",
+            "company": "Library Am Guisanplatz",
+            "country": "Switzerland",
+            "email": "",
+            "profile_image_url_https": "images/participants/woman.png"
+        },
+        {
+            "id": 60,
+            "firstname": "Rich",
+            "lastname": "Wenger",
+            "job_title": "E-Resouce Systems Manager",
+            "company": "MIT",
+            "country": "United States",
+            "email": "",
+            "profile_image_url_https": "images/participants/rwenger.png"
+        },
+        {
+            "id": 61,
+            "firstname": "Richard",
+            "lastname": "Ovenden",
+            "job_title": "Bodley's Librarian",
+            "company": "Bodleian Libraries",
+            "country": "United Kingdom",
+            "email": "richard.ovenden@bodleian.ox.ac.uk",
+            "profile_image_url_https": "images/participants/rovenden.jpg"
+        },
+        {
+            "id": 62,
+            "firstname": "Shlomo",
+            "lastname": "Sanders",
+            "job_title": "Chief Technology Officer",
+            "company": "Ex Libris",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/ssanders.png"
+        },
+        {
+            "id": 63,
+            "firstname": "Stephen",
+            "lastname": "Gillespie",
+            "job_title": "Associate Director Library Resources",
+            "company": "RMIT University",
+            "country": "Australia",
+            "email": "stephen.gillespie@rmit.edu.au",
+            "profile_image_url_https": "images/participants/sgillespie.jpg"
+        },
+        {
+            "id": 64,
+            "firstname": "Sue",
+            "lastname": "Harmer",
+            "job_title": "Manager, Application Support",
+            "company": "University of New South Wales",
+            "country": "Australia",
+            "email": "s.harmer@unsw.edu.au",
+            "profile_image_url_https": "images/participants/woman.png"
+        },
+        {
+            "id": 65,
+            "firstname": "Simon",
+            "lastname": "Moffatt",
+            "job_title": "Search Development Manager",
+            "company": "The British Library",
+            "country": "United Kingdom",
+            "email": "",
+            "profile_image_url_https": "images/participants/smoffatt.png"
+        },
+        {
+            "id": 66,
+            "firstname": "Sylvain",
+            "lastname": "Danhieux",
+            "job_title": "",
+            "company": "University of Liège Library",
+            "country": "Belgium",
+            "email": "",
+            "profile_image_url_https": "images/participants/sdanhieux.png"
+        },
+        {
+            "id": 67,
+            "firstname": "Tom",
+            "lastname": "Ruthven",
+            "job_title": "",
+            "company": "University of New South Wales",
+            "country": "Australia",
+            "email": "",
+            "profile_image_url_https": "images/participants/truthven.png"
+        },
+        {
+            "id": 68,
+            "firstname": "Yosef",
+            "lastname": "Branse",
+            "job_title": "Database and Programming Coordinator",
+            "company": "University of Haifa Library",
+            "country": "Israel",
+            "email": "",
+            "profile_image_url_https": "images/participants/man.png"
+        }
+    ]
+}

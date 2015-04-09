@@ -1,0 +1,2581 @@
+{
+    "sessions": [
+        {
+            "id": 1,
+            "number": "0.1",
+            "time": "10:00-17:00",
+            "date": "13 September",
+            "day": "Saturday",
+            "title": "IGeLU Steering Committee Meeting",
+            "abstract": "",
+            "track": "IGeLU SC",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 2,
+            "number": "0.2",
+            "time": "13:00-17:00",
+            "date": "13 September",
+            "day": "Saturday",
+            "title": "IGeLU PWG Coordinators Meeting",
+            "abstract": "",
+            "track": "IGeLU PWG Coordinators",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 3,
+            "number": "0.3",
+            "time": "13:00-17:00",
+            "date": "13 September",
+            "day": "Saturday",
+            "title": "ELUNA Steering Committee Meeting",
+            "theme": "Conference",
+            "abstract": "",
+            "track": "ELUNA SC",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 4,
+            "number": "I",
+            "time": "09:00-13:00",
+            "date": "14 September",
+            "day": "Sunday",
+            "title": "IGeLU Steering Committee and Product and Special Interest Working Group Coordinators meeting (with sandwiches for lunch 13:00 - 14:00)",
+            "abstract": "",
+            "track": "SC, PWG and SIWG Coords",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 5,
+            "number": "II",
+            "time": "14:00-16:00",
+            "date": "14 September",
+            "day": "Sunday",
+            "title": "Joint IGeLU SC and National/Regional User Group Representatives meeting (including PWG and SIWG Coordinators)",
+            "abstract": "",
+            "track": "SC, INUG, PWG and SIWG Coords",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 6,
+            "number": "III",
+            "time": "16:00-16:30",
+            "date": "14 September",
+            "day": "Sunday",
+            "title": "Coffee Break and Social Time SC/INUG/PWG/SIWG and Ex Libris Management",
+            "abstract": "",
+            "track": "SC, INUG, PWG, SIWG Coords & Ex Libris",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 7,
+            "number": "IV",
+            "time": "16:30-18:00",
+            "date": "14 September",
+            "day": "Sunday",
+            "title": "IGeLU SC/INUG/PWG/SIWG and Ex Libris Management Meeting",
+            "abstract": "",
+            "track": "SC, INUG, PWG, SIWG Coords & Ex Libris",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 8,
+            "number": "V",
+            "time": "09:00-18:00",
+            "date": "14 September",
+            "day": "Sunday",
+            "title": "ELUNA Steering Committee Meeting",
+            "abstract": "",
+            "track": "ELUNA SC",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 9,
+            "number": "1",
+            "time": "09:00-10:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Opening Session",
+            "abstract": "Consists of welcome remarks and Ex Libris corporate update. This session will include the Presentation of the Azriel Morag Award for Innovation.",
+            "track": "Plenary",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Richard",
+                    "lastname": "Ovenden",
+                    "job_title": "Bodley's Librarian",
+                    "company": "University of Oxford",
+                    "country": "United Kingdom",
+                    "email": "richard.ovenden@bodleian.ox.ac.uk",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Jiri",
+                    "lastname": "Kende",
+                    "job_title": "Chair",
+                    "company": "IGeLU Steering Committee",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Matti",
+                    "lastname": "Shem Tov",
+                    "job_title": "President and CEO",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Koby",
+                    "lastname": "Rosenthal",
+                    "job_title": "VP Europe",
+                    "company": "Ex Libris",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Jiri",
+                    "lastname": "Kende",
+                    "job_title": "Chair",
+                    "company": "IGeLU Steering Committee",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "number": "2",
+            "time": "10:00-11:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "How subversive! And how it takes to subvert...",
+            "abstract": "Exactly 20 years ago the Subversive Proposal was introduced in a short message on a mailing list. It suggested that researchers should make their work openly and freely available now that we had the World Wide Web, as that would improve the way research was communicated and used. How subversive was that? And why hasn't it come about? Open Access, open science, open innovation - all great concepts into which many have put great hopes. But after a decade of intensive work to achieve these things, and a full two decades since the notion was formally proposed, and indeed after many signs of great promise, we are running into dangerous waters. I will look at progress, promise and potholes for the unwary.",
+            "track": "Plenary",
+            "theme": "Conference",
+            "room": "Foyer",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Alma",
+                    "lastname": "Swan",
+                    "job_title": "Director",
+                    "company": "Key Perspectives Ltd.",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "number": "",
+            "time": "11:00-11:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Coffee break",
+            "abstract": "",
+            "track": "coffee",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 12,
+            "number": "",
+            "time": "11:00-11:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Ex Libris Product and Support Consultations",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Conference Room II",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 13,
+            "number": "3",
+            "time": "11:30-12:45",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Ex Libris Strategy and Roadmap",
+            "abstract": "Ex Libris management will describe the company's strategy and give updates on where it and the products are going.",
+            "track": "Plenary",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Oren",
+                    "lastname": "Beit-Arie",
+                    "job_title": "Chief Strategy Officer",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "David",
+                    "lastname": "Beychok",
+                    "job_title": "VP Discovery and Delivery Solutions",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Bar",
+                    "lastname": "Veinstein",
+                    "job_title": "VP Resource Management Solutions",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Fiona",
+                    "lastname": "Burton",
+                    "job_title": "Associate University Librarian, Resources",
+                    "company": "Macquarie University",
+                    "country": "Australia",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "number": "",
+            "time": "11:00-11:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Lunch break",
+            "abstract": "",
+            "track": "Lunch",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 15,
+            "number": "",
+            "time": "11:00-11:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Ex Libris Product and Support Consultations",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Conference Room II",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 16,
+            "number": "4.1",
+            "time": "14:00-15:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Managing and keeping track of Aleph changes",
+            "abstract": "",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Jakob",
+                    "lastname": "Venning",
+                    "job_title": "IT employee",
+                    "company": "Statsbiblioteket, State and University Library",
+                    "country": "Denmark",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "number": "4.21",
+            "time": "14:00-14:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Two years with Alma",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Stephen",
+                    "lastname": "Gillespie",
+                    "job_title": "Associate Director Library Resources",
+                    "company": "RMIT University",
+                    "country": "Australia",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "number": "4.22",
+            "time": "14:30-15:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Challenges and opportunities of Alma for the Alexandria Library Network and the Library Am Guisanplatz",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Rachel Birri",
+                    "lastname": "Blezon",
+                    "job_title": "Systems librarian, Deputy Chief of the Alexandria Library Network Coordination",
+                    "company": "Library Am Guisanplatz",
+                    "country": "Switzerland",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "number": "4.3",
+            "time": "14:00-15:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Next Step: Digital Collections into Primo",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Michael",
+                    "lastname": "North",
+                    "job_title": "Sr. SysAnalyst/Programmer",
+                    "company": "Northwestern University",
+                    "country": "USA",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "number": "4.41",
+            "time": "14:00-14:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Normalization with XSL and a File Splitter for Greater Control",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Curtis",
+                    "lastname": "Thacker",
+                    "job_title": "Discovery Systems Manager",
+                    "company": "Brigham Young University",
+                    "country": "USA",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "number": "4.42",
+            "time": "14:30-15:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Enhancing Chinese word normalization in Primo with the HKIUG TSVCC mapping table",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Alan",
+                    "lastname": "Ng",
+                    "job_title": "Systems Librarian",
+                    "company": "The Chinese University of Hong Kong",
+                    "country": "Hong Kong",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "number": "4.5",
+            "time": "14:00-15:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Alma, the Cloud and the Evolution of the Library Systems Department",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Kevin",
+                    "lastname": "Kidd",
+                    "job_title": "Head of Library Systems and Applications",
+                    "company": "Boston College University Libraries",
+                    "country": "USA",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "number": "4.6",
+            "time": "14:00-15:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Ex Libris Support Services - A Customer / Ex Libris Collaborative Review",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination School",
+            "participants": [
+                {
+                    "firstname": "Habib",
+                    "lastname": "Tabatabai",
+                    "job_title": "Director of Systems and Technical Services",
+                    "company": "University of Central Oklohoma",
+                    "country": "USA",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Pascal V.",
+                    "lastname": "Calarco",
+                    "job_title": "Associate University Librarian, Research and Digital Discovery Services",
+                    "company": "University of Waterloo",
+                    "country": "Canada",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Martin",
+                    "lastname": "Büscher",
+                    "job_title": "Head of European Support",
+                    "company": "Ex Libris",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "number": "4.7",
+            "time": "14:00-15:00",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Alma Demo",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 25,
+            "number": "",
+            "time": "15:00-15:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Coffee break",
+            "abstract": "",
+            "track": "coffee",
+            "theme": "Conference",
+            "room": "Conference Room II",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 26,
+            "number": "",
+            "time": "15:00-15:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Ex Libris Product and Support Consultations",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Conference Room II",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 27,
+            "number": "5.1",
+            "time": "15:30-16:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Rosetta Product Update, Roadmap and Q&A followed by Rosetta PWG Business Meeting",
+            "abstract": "This session will begin with a Rosetta product update and be followed by an opportunity for Rosetta customers to discuss the possibilities of a Rosetta Product Working Group.  All interested parties are encouraged to attend.",
+            "track": "Rosetta",
+            "theme": "Conference",
+            "room": "Conference Room II",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Adi",
+                    "lastname": "Alter",
+                    "job_title": "Rosetta and Alma Product Manager",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Matthias",
+                    "lastname": "Gross",
+                    "job_title": "",
+                    "company": "Bavarian State Library",
+                    "country": "Germany",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "number": "5.2",
+            "time": "15:30-16:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "SFX Product Update, Roadmap and Q&A followed by SFX PWG Business Meeting",
+            "abstract": "",
+            "track": "SFX",
+            "theme": "Conference",
+            "room": "Conference Room II",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Christine",
+                    "lastname": "Stohn",
+                    "job_title": "Product Manager",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Bas",
+                    "lastname": "Vat",
+                    "job_title": "Manager Library Process Support Division",
+                    "company": "Leiden University Libraries",
+                    "country": "Netherlands",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "number": "5.3",
+            "time": "15:30-16:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "DigiTool PWG Business Meeting",
+            "abstract": "",
+            "track": "DigiTool",
+            "theme": "Conference",
+            "room": "Conference Room II",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Luis Miguel",
+                    "lastname": "Costa",
+                    "job_title": "Faculdade de Engenharia UP",
+                    "company": "University of Porto",
+                    "country": "Portugal",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "number": "5.4",
+            "time": "15:30-16:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Interoperability SIWG Business Meeting and Open Discussion",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Masud",
+                    "lastname": "Khokhar",
+                    "job_title": "Head of Digital Innovation",
+                    "company": "Lancaster University Library",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "number": "5.5",
+            "time": "15:30-16:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Linked Open Data SIWG Business Meeting",
+            "abstract": "The meeting of the Linked Data SIWG reports on activities, focuses on the collaboration procedure with Ex Libris, and discusses and formalises the new joint IGeLU/ELUNA group, with elections etc.",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Corey",
+                    "lastname": "Harper",
+                    "job_title": "",
+                    "company": "New York University",
+                    "country": "USA",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "number": "6",
+            "time": "16:35-17:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "IGeLU Update and Assembly of Members",
+            "abstract": "Contains IGeLU Chair's Report, Introduction of Steering Committee, Presentation and Approval of Budget, Introduction of Steering Committee Candidates, and a quick NERS update.",
+            "track": "Plenary",
+            "theme": "Conference",
+            "room": "Conference Room II",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Jiri",
+                    "lastname": "Kende",
+                    "job_title": "Chair",
+                    "company": "IGeLU Steering Committee",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "number": "",
+            "time": "19:30",
+            "date": "15 September",
+            "day": "Monday",
+            "title": "Social Event",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Museum of Natural History",
+            "building": "Oxford University"
+        },
+        {
+            "id": 34,
+            "number": "7",
+            "time": "09:00-10:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Alma Product Update, Roadmap and Q&A",
+            "abstract": "Ex Libris management will describe the company's strategy and give updates on where it and the products are going. The Alma PWG business meeting will be in Session 8.5.",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Bar",
+                    "lastname": "Veinstein",
+                    "job_title": "VP Resource Management Solutions",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Dvir",
+                    "lastname": "Hoffman",
+                    "job_title": "VP Product Management and Marketing",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "number": "",
+            "time": "10:30-11:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Coffee break",
+            "abstract": "",
+            "track": "coffee",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 36,
+            "number": "",
+            "time": "10:30-11:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Ex Libris Product and Support Consultations",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 37,
+            "number": "8.1",
+            "time": "11:00-12:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Aleph Product Update, Roadmap and Q&A followed by Aleph PWG Business Meeting",
+            "abstract": "",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Carmit",
+                    "lastname": "Marcus",
+                    "job_title": "Director of Product Management and Partnerships",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Augusto",
+                    "lastname": "Ribeiro",
+                    "job_title": "Aleph PWG Coordinator & Senior Application Analyst in Library Services",
+                    "company": "King's College London",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "number": "8.2",
+            "time": "11:00-12:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "MetaLib/MetaLib+ Product Update, Roadmap and Q&A followed by combined Primo and MetaLib PWG Business Meeting",
+            "abstract": "This session will begin with a MetaLib product update from Ex Libris and will be followed by a business meeting of the combined Primo/MetaLib PWG during which the group will hear reports of the group's activities and continue to work on the processes needed to make the combined group effective.",
+            "track": "MetaLib",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Rachel",
+                    "lastname": "Kessler",
+                    "job_title": "Product Manager",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Christian",
+                    "lastname": "Hänger",
+                    "job_title": "Primo/ML PWG Coordinator & Head of Digital Library Services",
+                    "company": "University of Mannheim",
+                    "country": "Germany",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "number": "8.3",
+            "time": "11:00-12:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Voyager Product Update, Roadmap and Q&A followed by Voyager PWG Business Meeting",
+            "abstract": "",
+            "track": "Voyager",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Mike",
+                    "lastname": "Dicus",
+                    "job_title": "Voyager Product Manager",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Raymund",
+                    "lastname": "Delahunty",
+                    "job_title": "Voyager PWG Coordinator & Systems Support Librarian",
+                    "company": "University of the Arts, London",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "number": "8.4",
+            "time": "11:00-12:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Consortia SIWG Meeting, Alma Collaborative Networks, Discussion and Business Meeting",
+            "abstract": "The first hour will provide an opportunity for participants to hear from Ex Libris about its plans for supporting consortia in Alma followed by a discussion with Ex Libris. A SIWG business meeting will complete the session.",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Asaf",
+                    "lastname": "Kline",
+                    "job_title": "Alma Product Manager",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Peter",
+                    "lastname": "Klien",
+                    "job_title": "Coordinator Consortia SIWG & Press Officer",
+                    "company": "The Austrian Library Network (OBVSG)",
+                    "country": "Austria",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "number": "8.5",
+            "time": "11:00-12:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Alma PWG Business Meeting",
+            "abstract": "Meeting of the Joint IGeLU/ELUNA Alma PWG. This meeting is open to all. A short business meeting reviewing membership and activities of the PWG for the past year will begin the session. The primary purpose of this session is to hear from users about their Alma experience and determine the focus of PWG activities for the next year. The agenda will be announced via ALMA-L in August.",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Betsy",
+                    "lastname": "Friesen",
+                    "job_title": "Alma PWG Coordinator & Director Data Management and Access",
+                    "company": "University of Minnesota",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "number": "",
+            "time": "12:30-14:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Lunch break",
+            "abstract": "",
+            "track": "Lunch",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 43,
+            "number": "",
+            "time": "12:30-14:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Lunch - IGeLU and ELUNA Steering Committees",
+            "abstract": "",
+            "track": "Lunch",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 44,
+            "number": "",
+            "time": "12:30-14:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Ex Libris Product and Support Consultations",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 45,
+            "number": "9.11",
+            "time": "14:00-14:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Scriptorium, a retro-cataloguing tool to easily and quickly encode older book items",
+            "abstract": "The first hour will provide an opportunity for participants to hear from Ex Libris about its plans for supporting consortia in Alma followed by a discussion with Ex Libris. A SIWG business meeting will complete the session.",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "François",
+                    "lastname": "Renaville",
+                    "job_title": "Systems Librarian",
+                    "company": "University of Liège Library",
+                    "country": "Belgium",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Sylvain",
+                    "lastname": "Danhieux",
+                    "job_title": "",
+                    "company": "University of Liège Library",
+                    "country": "Belgium",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "number": "9.12",
+            "time": "14:30-15:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Aleph at crossroads",
+            "abstract": "The first hour will provide an opportunity for participants to hear from Ex Libris about its plans for supporting consortia in Alma followed by a discussion with Ex Libris. A SIWG business meeting will complete the session.",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Dalia",
+                    "lastname": "Mendelsson",
+                    "job_title": "Chief Information Systems Librarian",
+                    "company": "The Hebrew University of Jerusalem",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "number": "9.21",
+            "time": "14:00-14:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Alma and interoperability: maximising Alma’s role in the institutional landscape",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Sue",
+                    "lastname": "Harmer",
+                    "job_title": "Manager Application Support",
+                    "company": "University of New South Wales",
+                    "country": "Australia",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Tom",
+                    "lastname": "Ruthven",
+                    "job_title": "",
+                    "company": "University of New South Wales",
+                    "country": "Australia",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "number": "9.22",
+            "time": "14:30-15:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Online fines payment with Alma and Primo",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Chris",
+                    "lastname": "Jones",
+                    "job_title": "Systems Manager",
+                    "company": "University of Sheffield",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "number": "9.31",
+            "time": "14:00-14:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "The Primo Graphical User Interface (GUI) - critique and improvement suggestions",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Matthias",
+                    "lastname": "Einbrodt",
+                    "job_title": "Systems Librarian",
+                    "company": "Free University of Bozen-Bolzano",
+                    "country": "Italy",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "number": "9.32",
+            "time": "14:30-15:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Meeting the discovery challenge: user expectations, usability and Primo",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Andy",
+                    "lastname": "Land",
+                    "job_title": "Digital Systems Manager",
+                    "company": "The University of Manchester",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "number": "9.41",
+            "time": "14:00-14:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Good Fences Make Good Neighbors",
+            "abstract": "",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Rich",
+                    "lastname": "Wenger",
+                    "job_title": "E-Resouce Systems Manager",
+                    "company": "MIT",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "number": "9.42",
+            "time": "14:30-15:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Make Big Brother Work for You: Mining Patron Data for Enhanced Library Services",
+            "abstract": "",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Yosef",
+                    "lastname": "Branse",
+                    "job_title": "Database and Programming Coordinator",
+                    "company": "University of Haifa Library",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "number": "9.5",
+            "time": "14:00-15:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Managing a three-ring circus: Upgrading Aleph, implementing Primo, and maintaining support for a quarter million users",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Kevin J.",
+                    "lastname": "Collins",
+                    "job_title": "Aleph Systems Librarian",
+                    "company": "City University of New York",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "number": "9.6",
+            "time": "14:00-15:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Feeding your Linked Data: The Role of Computational Linguistics in Metadata Management",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Corey",
+                    "lastname": "Harper",
+                    "job_title": "Metadata Services Librarian",
+                    "company": "New York University",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Shlomo",
+                    "lastname": "Sanders",
+                    "job_title": "Chief Technology Officer",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "number": "9.71",
+            "time": "14:00-14:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Simpler, faster and more transparent: improving repository submission with PubSub",
+            "abstract": "",
+            "track": "DigiTool",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Richard",
+                    "lastname": "Cross",
+                    "job_title": "Resource Discovery and Innovation Team Manager",
+                    "company": "Nottingham Trent University",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "number": "9.72",
+            "time": "14:30-15:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Does MetaLib Have a Future? One Consortium's Experience with MetaLib Post-Primo Implementation",
+            "abstract": "",
+            "track": "MetaLib",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Maureen",
+                    "lastname": "Olle-LaJoie",
+                    "job_title": "Head of Library Technology",
+                    "company": "University of Wisconsin-River Falls",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "number": "10",
+            "time": "15:05-16:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Alma Panel: View from the Early Adopters and Panel Discussion",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Participant",
+                    "lastname": "1",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Participant",
+                    "lastname": "2",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Participant",
+                    "lastname": "3",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Participant",
+                    "lastname": "4",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Tracey",
+                    "lastname": "Clarke",
+                    "job_title": "Assistant Director & Head of Collections & eStrategy",
+                    "company": "University of Sheffield",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "number": "",
+            "time": "16:30-17:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Coffee break",
+            "abstract": "",
+            "track": "coffee",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 59,
+            "number": "",
+            "time": "16:30-17:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Ex Libris Product and Support Consultations",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 60,
+            "number": "11.11",
+            "time": "17:00-17:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Text me, maybe: Implementing texting functionality in the Aleph OPAC",
+            "abstract": "",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Alevtina",
+                    "lastname": "Verbovetskaya",
+                    "job_title": "Web & Mobile Systems Librarian",
+                    "company": "City University of New York",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "number": "11.12",
+            "time": "17:30-18:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Implementation of online payment in Aleph at King's College London",
+            "abstract": "",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Matt",
+                    "lastname": "Couzens",
+                    "job_title": "Service Improvement Coordinator",
+                    "company": "King's College London",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Joao",
+                    "lastname": "Neves",
+                    "job_title": "Senior Application Analyst - Library Systems",
+                    "company": "King's College London",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "number": "11.21",
+            "time": "17:00-17:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Alma Analytics at Sheffield",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Andy",
+                    "lastname": "Bussey",
+                    "job_title": "Head of Digital Services and Systems",
+                    "company": "University of Sheffield",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "number": "11.22",
+            "time": "17:30-18:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Building on Alma Analytics",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "John",
+                    "lastname": "Krug",
+                    "job_title": "Systems & Analytics Manager",
+                    "company": "Lancaster University",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "number": "11.3",
+            "time": "17:00-18:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Expanding Primo beyond your ILS data source : including EAD and Graphic Sources",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Janet",
+                    "lastname": "Lute",
+                    "job_title": "ILS Coordinator",
+                    "company": "Princeton University",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "number": "11.41",
+            "time": "17:00-17:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "SFX Knowledge Base Advisory Board (KBAB): Goals And Achievements After One Year",
+            "abstract": "",
+            "track": "SFX",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "François",
+                    "lastname": "Renaville",
+                    "job_title": "Systems Librarian",
+                    "company": "University of Liège Library",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Mark",
+                    "lastname": "Needleman",
+                    "job_title": "Systems Support Analyst",
+                    "company": "Florida Virtual Campus",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "number": "11.42",
+            "time": "17:30-18:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Adding institution support in SFX for Shibboleth SSO",
+            "abstract": "",
+            "track": "SFX",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Jiri",
+                    "lastname": "Pavlik",
+                    "job_title": "Systems Engineer",
+                    "company": "Charles University Prague",
+                    "country": "Czech Republic",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Jan",
+                    "lastname": "Krajic",
+                    "job_title": "",
+                    "company": "Charles University Prague",
+                    "country": "Czech Republic",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "number": "11.51",
+            "time": "17:00-17:30",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "The Best of Both Worlds or the End of the World as We Know It? - A Usability Approach to the Cross-Product Cross-Ideology Discovery Interface Finna",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Anna",
+                    "lastname": "Pienimäki",
+                    "job_title": "IT Systems Specialist",
+                    "company": "The National Library of Finland",
+                    "country": "Finland",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Aleksi",
+                    "lastname": "Turpeinen",
+                    "job_title": "Usability Designer",
+                    "company": "The National Library of Finland",
+                    "country": "Finland",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "number": "11.52",
+            "time": "17:30-18:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "The Brazilian CAPES Portal of Scientific Content",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Gustavo Jardim",
+                    "lastname": "Portella",
+                    "job_title": "Coordinator of IT System Development",
+                    "company": "CAPES",
+                    "country": "Brazil",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "number": "11.6",
+            "time": "17:00-18:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Closing the circle: using linked data to enrich authority records and make them linkable on the web",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Roxana",
+                    "lastname": "Popistasu",
+                    "job_title": "IT Consultant",
+                    "company": "National Library of Luxembourg",
+                    "country": "Luxembourg",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Stefanie",
+                    "lastname": "Zutter",
+                    "job_title": "",
+                    "company": "National Library of Luxembourg",
+                    "country": "Luxembourg",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "number": "11.7",
+            "time": "17:00-18:00",
+            "date": "16 September",
+            "day": "Tuesday",
+            "title": "Alma demo",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 71,
+            "number": "12",
+            "time": "09:00-10:30",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Primo and Primo Central Product Update, Roadmap and Q&A",
+            "abstract": "The Primo/MetaLib PWG business meeting will be in Session 8.2",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Shlomi",
+                    "lastname": "Kringel",
+                    "job_title": "VP Discovery and Delivery Solutions",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Tamar",
+                    "lastname": "Sadeh",
+                    "job_title": "Director of Discovery and Delivery Strategy",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Yuval",
+                    "lastname": "Kiselstein",
+                    "job_title": "Director of Product Management, Discovery and Delivery Solutions",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Christian",
+                    "lastname": "Hänger",
+                    "job_title": "Head of Digital Library Services",
+                    "company": "University of Mannheim",
+                    "country": "Germany",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "number": "",
+            "time": "10:30-11:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Coffee break",
+            "abstract": "",
+            "track": "coffee",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 73,
+            "number": "",
+            "time": "10:30-11:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Ex Libris Product and Support Consultations",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 74,
+            "number": "13",
+            "time": "11:00-12:30",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Ex Libris General Q&A",
+            "abstract": "A tradition at IGeLU conferences, this session gives Ex Libris an opportunity to respond to general questions submitted in advance by the customers about the company and its directions.",
+            "track": "Plenary",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Peter",
+                    "lastname": "Klien",
+                    "job_title": "Coordinator Consortia SIWG & Press Officer",
+                    "company": "The Austrian Library Network (OBVSG)",
+                    "country": "Austria",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "number": "",
+            "time": "12:30-14:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Lunch break",
+            "abstract": "",
+            "track": "Lunch",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 76,
+            "number": "",
+            "time": "12:30-14:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Lunch - IGeLU Steering Committee and Ex Libris Management",
+            "abstract": "",
+            "track": "Lunch",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 77,
+            "number": "",
+            "time": "12:30-14:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Ex Libris Product and Support Consultations",
+            "abstract": "",
+            "track": "demo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 78,
+            "number": "14.1",
+            "time": "14:00-15:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Automatic for the personnel",
+            "abstract": "",
+            "track": "Aleph",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Meirav",
+                    "lastname": "Livne",
+                    "job_title": "Head of Acquisition Department",
+                    "company": "National Library of Israel",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Dror",
+                    "lastname": "Berger",
+                    "job_title": "Head of Library Information Systems Department",
+                    "company": "National Library of Israel",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "number": "14.2",
+            "time": "14:00-15:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "In It Together: Selection and Implementation of Alma/Primo as a Consortial System",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Ann",
+                    "lastname": "Miller",
+                    "job_title": "Head of Collection Services",
+                    "company": "University of Oregon",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "number": "14.3",
+            "time": "14:00-15:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Alma Analytics : a whole new world of data extraction",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Janet",
+                    "lastname": "Lute",
+                    "job_title": "ILS Coordinator",
+                    "company": "Princeton University",
+                    "country": "United States",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "number": "14.41",
+            "time": "14:00-14:30",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Relevance redefined",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Lukas",
+                    "lastname": "Koster",
+                    "job_title": "Library Systems Coordinator",
+                    "company": "Library of the University of Amsterdam",
+                    "country": "Netherlands",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "number": "14.42",
+            "time": "14:30-15:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Analysing Primo journal coverage as a tool for optimising our information resources collection",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "G. H.",
+                    "lastname": "Meerburg",
+                    "job_title": "Information Specialist",
+                    "company": "Library of the University of Amsterdam",
+                    "country": "Netherlands",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "number": "14.5",
+            "time": "14:00-15:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Deep Search or Harvest? How we decided.",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Simon",
+                    "lastname": "Moffatt",
+                    "job_title": "Search Development Manager",
+                    "company": "The British Library",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Dr. Ilaria",
+                    "lastname": "Corda",
+                    "job_title": "",
+                    "company": "The British Library",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "number": "14.7",
+            "time": "14:00-14:30",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Digital preservation of architectural 3D data – Rosetta in the context of the DURAARK project",
+            "abstract": "",
+            "track": "Rosetta",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Michael",
+                    "lastname": "Panitz",
+                    "job_title": "Project Assistant, TIB",
+                    "company": "German National Library of Science and Technology",
+                    "country": "Germany",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Moderator",
+                    "lastname": "Moderator",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "number": "15",
+            "time": "15:05-16:00",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Closing Keynote",
+            "abstract": "",
+            "track": "Plenary",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Dr. David",
+                    "lastname": "Charles De Roure",
+                    "job_title": "Professor of e-Research at the University of Oxford, Director of the Oxford e-Research Centre (OeRC) and Co-Director of the Institute for the Future of Computing in the Oxford Martin School",
+                    "company": "University of Oxford",
+                    "country": "United Kingdom",
+                    "email": "",
+                    "participant_role": "Presenter"
+                },
+                {
+                    "firstname": "Theo",
+                    "lastname": "Engelman",
+                    "job_title": "Senior ICT Consultant and IGeLU SC",
+                    "company": "Utrecht University Library",
+                    "country": "Netherland",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "number": "16",
+            "time": "16:00-16:30",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Closing Session, Report on voting results, Greetings from our next hosts and Conference goodbyes",
+            "abstract": "",
+            "track": "Rosetta",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Jiri",
+                    "lastname": "Kende",
+                    "job_title": "Chair",
+                    "company": "IGeLU Steering Committee",
+                    "country": "Germany",
+                    "email": "",
+                    "participant_role": "Moderator"
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "number": "",
+            "time": "16:30",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Goodbye coffee",
+            "abstract": "",
+            "track": "coffee",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 88,
+            "number": "",
+            "time": "19:30",
+            "date": "17 September",
+            "day": "Wednesday",
+            "title": "Joint Social Event",
+            "abstract": "",
+            "track": "coffee",
+            "theme": "Conference",
+            "room": "Room",
+            "building": "Oxford Town Hall"
+        },
+        {
+            "id": 89,
+            "number": "",
+            "time": "09:00-10:30",
+            "date": "18 September",
+            "day": "Thursday",
+            "title": "Primo - Opening and keynote",
+            "abstract": "",
+            "track": "Primo",
+            "theme": "Systems Seminar",
+            "room": "L5",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "",
+                    "lastname": "",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "number": "",
+            "time": "09:00-10:30",
+            "date": "18 September",
+            "day": "Thursday",
+            "title": "SFX - Opening and keynote",
+            "abstract": "",
+            "track": "SFX",
+            "theme": "Systems Seminar",
+            "room": "L6",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "",
+                    "lastname": "",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "number": "",
+            "time": "09:00-10:30",
+            "date": "18 September",
+            "day": "Thursday",
+            "title": "Alma - Opening and keynote",
+            "abstract": "",
+            "track": "Alma",
+            "theme": "Systems Seminar",
+            "room": "L3",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "",
+                    "lastname": "",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "number": "",
+            "time": "09:00-10:30",
+            "date": "18 September",
+            "day": "Thursday",
+            "title": "Aleph - Opening and keynote",
+            "abstract": "",
+            "track": "Aleph",
+            "theme": "Systems Seminar",
+            "room": "L4",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "",
+                    "lastname": "",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "number": "",
+            "time": "09:00-10:30",
+            "date": "18 September",
+            "day": "Thursday",
+            "title": "Rosetta - Opening and keynote",
+            "abstract": "",
+            "track": "Rosetta",
+            "theme": "Systems Seminar",
+            "room": "L4",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "",
+                    "lastname": "",
+                    "job_title": "",
+                    "company": "",
+                    "country": "",
+                    "email": "",
+                    "participant_role": "Presenter"
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "number": "",
+            "time": "10:30-11:00",
+            "date": "18 September",
+            "day": "Thursday",
+            "title": "Break",
+            "abstract": "",
+            "track": "coffee",
+            "theme": "Systems Seminar",
+            "room": "Room",
+            "building": "Examination Schools"
+        },
+        {
+            "id": 95,
+            "number": "",
+            "time": "11:00-12:30",
+            "date": "18 September",
+            "day": "Thursday",
+            "title": "Ex Libris Developer Network: Introduction",
+            "abstract": "",
+            "track": "Other",
+            "theme": "Systems Seminar",
+            "room": "L5",
+            "building": "Examination Schools",
+            "participants": [
+                {
+                    "firstname": "Josh",
+                    "lastname": "Weisman",
+                    "job_title": "Development Director",
+                    "company": "Ex Libris",
+                    "country": "Israel",
+                    "email": "",
+                    "participant_role": "Presenter"
+                }
+            ]
+        },
+
+    ]
+}

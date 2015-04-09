@@ -1,0 +1,42 @@
+[
+    {
+        "pk": 1,
+        "model": "Sessions.session",
+        "fields": {
+            "building": "Examination Schools",
+            "room": "Room",
+            "title": "IGeLU Steering Committee Meeting",
+            "track": "IGeLU SC",
+            "abstract": "",
+            "number": "0.1",
+            "theme": "Conference",
+            "time": "10:00-17:00",
+            "date": "13 September",
+            "participants": [],
+            "day": "Saturday"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "Sessions.session",
+        "fields": {
+            "building": "Examination Schools",
+            "room": "Room",
+            "title": "Opening Session",
+            "track": "Plenary",
+            "abstract": "Consists of welcome remarks and Ex Libris corporate update. This session will include the Presentation of the Azriel Morag Award for Innovation.",
+            "number": "1",
+            "theme": "Conference",
+            "time": "09:00 - 10:00",
+            "date": "15 September",
+            "participants": [
+                "Richard Ovenden",
+                "Jiri Kende",
+                "Matti Shem Tov",
+                "Koby Rosenthal",
+                "Jiri Kende"
+            ],
+            "day": "Monday"
+        }
+    }
+]
